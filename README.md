@@ -19,6 +19,11 @@ Welcome to our cutting-edge Job Description Generator! Our product leverages sta
 3. **Review and Customize:** Review the generated job description and make any necessary customizations to ensure it aligns perfectly with your needs.
 4. **Download or Integrate:** Download the finalized job description or seamlessly integrate it into your recruitment workflow.
 
+** Development Workflow**
+
+![image](https://github.com/user-attachments/assets/42af37ba-e91d-434a-a40d-08d91adb7f28)
+
+
 **Future Developments:**
 
 We are committed to continuous improvement and innovation. In future updates, we plan to enhance model robustness, implement reinforcement learning mechanisms for feedback-driven improvements, and expand data sources to enrich job descriptions further.
