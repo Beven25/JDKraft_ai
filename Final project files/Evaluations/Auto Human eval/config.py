@@ -1,0 +1,13 @@
+CONCISENESS = "conciseness"
+CORRECTNESS = "correctness"
+RELEVANCE = "relevance" 
+COHERENCE = "coherence"
+HELPFULNESS='helpfulness'
+MODEL = "TheBloke/Mistral-7B-OpenOrca-GGUF"
+MODEL_TYPE = "llama"
+MAX_NEW_TOKENS = 2048
+TEMPERATURE = 0.1
+DO_SAMPLE=True
+CONTEXT_LENGTH = 4096
+# config.config.max_new_tokens = 2048
+# config.config.context_length = 4096
