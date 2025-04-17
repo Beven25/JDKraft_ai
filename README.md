@@ -35,7 +35,4 @@ Thank you for choosing our Job Description Generator. We look forward to empower
 For inquiries, feedback, or support, please contact us at bevenrozario.johnson@stud.hochschule-heidelberg.de or aneeth.manikantan@stud.hochschule-heidelberg.de.
 
 
-**Credits:**
-Brevdev: https://github.com/brevdev/notebooks
-        
-Vasanthengineer4949: https://github.com/Vasanthengineer4949/NLP-Projects-NHV
+
